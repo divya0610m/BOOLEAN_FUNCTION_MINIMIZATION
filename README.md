@@ -21,6 +21,7 @@ Hardware – PCs, Cyclone II , USB flasher
 In this experiment, combinational logic functions are implemented using Verilog HDL and verified through simulation in Quartus software. The given functions F1 and F2 are in Sum of Products (SOP) form, which are combinations of AND, OR, and NOT gates.
 
 -> F1 is a 4-variable logic function with inputs A, B, C, D.
+
 -> F2 is a 4-variable logic function with inputs w, x, y, z.
 
 Using Verilog, the Boolean expressions are coded using assign statements, which create combinational circuits. The design is then compiled and simulated in Quartus, where input combinations are applied, and outputs F1 and F2 are observed in the waveform to verify correctness.
@@ -53,6 +54,8 @@ This process helps in understanding digital circuit design and simulation using 
 ![WhatsApp Image 2024-11-21 at 11 34 59_158c6d9f](https://github.com/user-attachments/assets/180440d0-631d-45bf-a85a-4508c9f41e65)
 
 ![WhatsApp Image 2024-11-21 at 11 34 59_05329a2a](https://github.com/user-attachments/assets/e7443311-e06d-405a-9194-a60e492f0585)
+
+
 **RTL**
 
 ![ex 2 dia](https://github.com/user-attachments/assets/0bf90835-30a3-44fd-bf12-056eed920ca1)
