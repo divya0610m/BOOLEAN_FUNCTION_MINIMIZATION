@@ -50,9 +50,9 @@ This process helps in understanding digital circuit design and simulation using 
 
 **Truth Table**
 
-https://github.com/user-attachments/assets/180440d0-631d-45bf-a85a-4508c9f41e65
-https://github.com/user-attachments/assets/e7443311-e06d-405a-9194-a60e492f0585
+![WhatsApp Image 2024-11-21 at 11 34 59_158c6d9f](https://github.com/user-attachments/assets/180440d0-631d-45bf-a85a-4508c9f41e65)
 
+![WhatsApp Image 2024-11-21 at 11 34 59_05329a2a](https://github.com/user-attachments/assets/e7443311-e06d-405a-9194-a60e492f0585)
 **RTL**
 
 ![ex 2 dia](https://github.com/user-attachments/assets/0bf90835-30a3-44fd-bf12-056eed920ca1)
